@@ -24,3 +24,8 @@ This repository is for the rewrite of the Target-Acquired Gaming website
 4. [] Advanced/External Infrastructure
 	* [] Create Theme for HL Stats
 	* [] Create Theme for SourceBans
+	* [] Install/Configure MagPieRSS
+		* [] Install MagPieRSS
+		* [] Configure MagPie RSS
+			* [] Create parser for TF2 Blog
+			* [] Create parser for TA Blog
