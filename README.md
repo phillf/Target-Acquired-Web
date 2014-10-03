@@ -5,7 +5,7 @@ This repository is for the rewrite of the Target-Acquired Gaming website
 ## To Do List ##
 
 1. [] Build basic structure (HTML)
-	* [] Create Home (index.html)
+	* [WIP] Create Home (index.html)
 	* [] Create About (about.html)
 	* [] Create Live (live.html)
 		* [] Create video switcher
